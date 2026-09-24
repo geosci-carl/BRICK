@@ -4,7 +4,7 @@
 This repository is a fork of the BRICK modeling framework utilized for M.S. in Geosciences research at the **Penn State Center for Climate Risk Management (CLIMA)**.  
 
 **Key Contributions:**
-* **Probabilistic Calibration:** Executed and validated Markov Chain Monte Carlo (MCMC) calibration pipelines across coupled sub-models (DOECLIM, SIMPLE, DAIS) using observational climate, sea-level datasets and structured expert judgment (SEJ).
+* **Probabilistic Calibration:** Executed and validated Markov Chain Monte Carlo (MCMC) calibration pipelines across coupled sub-models (DOECLIM, SIMPLE, DAIS) using observational climate and sea-level datasets and structured expert judgment (SEJ).
 * **DMDU Scenario Analysis:** Implemented scenario stress-testing under Decision Making under Deep Uncertainty (DMDU) frameworks to evaluate parameter sensitivities and model robustness.
 * **Workflow Hygiene:** Managed dependency configurations, data extraction routines (netCDF), and code reproducibility across collaborative research runs.
 
