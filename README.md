@@ -1,5 +1,9 @@
 # BRICK v0.3 ![alt text](https://github.com/scrim-network/BRICK/blob/master/brick_logo.png "This is a brick!")
 
+Project Context & Contributions:
+
+This repository is a fork of the BRICK modeling framework utilized for M.S. research at Penn State CLIMA. Contributions include [e.g., executing calibration pipelines, developing DMDU scenario stress-tests, auditing parameter sensitivity, running local sea-level projections, or managing dependency workflows].
+
 ## Synopsis
 
 BRICK (**B**uilding blocks for **R**elevant **I**ce and **C**limate **K**nowledge) is a modular semi-empirical modeling framework to simulate global temperature and sea-level rise. In the default model configuration, first, global mean surface temperature and ocean heat uptake are simulated by DOECLIM. Changes in global mean surface temperature drive changes in global mean sea level (GMSL). The contributions to GMSL from the Greenland and Antarctic ice sheets, thermal expansion, and glaciers and ice caps are simulated.
